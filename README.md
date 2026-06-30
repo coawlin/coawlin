@@ -7,7 +7,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Working as a Software Engineer (Contractor) at Apple 
-- 🔭 &nbsp; Currently working on Youtube Clone App
 - 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design.
 - 🤔 &nbsp; Diving deep into frontend web development.
 - ✍️ &nbsp; Looking into data structure & algorithm.
